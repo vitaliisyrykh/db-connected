@@ -6,8 +6,8 @@
       "port": 5432,
       "askForPassword": true,
       "driver": "PostgreSQL",
-      "name": "fd_test_vc",
-      "database": "fd_test",
+      "name": "fd-test",
+      "database": "test",
       "username": "postgres"
     }
   ]
